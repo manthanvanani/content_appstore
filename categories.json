@@ -1,0 +1,33 @@
+
+	[
+		{
+			"title":"Books",
+			"description" : "Apps that provide extensive interactivity for content that is traditionally offered in printed form. If you’re planning a more traditional reading experience, you may want to look at publishing an iBook instead.",
+			"icon" : "",
+			"example" : "stories, comics, eReaders, coffee table books, graphic novels",			
+		},
+		{
+			"title":"Business",
+			"description" : "Apps that assist with running a business or provide a means to collaborate, edit, or share content.",
+			"icon" : "",
+			"example" : "document management, PDFs, scanning, file viewing, file editing, VoIP telephony, dictation, remote desktop, job search resources, customer resource management, collaboration, enterprise resource planning, point of sale",			
+		},		
+		{
+			"title":"Developer Tools",
+			"description" : "Apps that provide tools for app development, management, and distribution.",
+			"icon" : "",
+			"example" : "coding, testing, debugging, workflow management, text and code editing",			
+		},
+		{
+			"title":"Education",
+			"description" : "Apps that provide an interactive learning experience on a specific skill or subject.",
+			"icon" : "",
+			"example" : "arithmetic, alphabet, writing, early learning and special education, solar system, vocabulary, colors, language learning, standardized test prep, geography, school portals, pet training, astronomy, crafts",			
+		},
+		{
+			"title":"Entertainment",
+			"description" : "Apps that are interactive and designed to entertain and inform the user, and which contain audio, visual, or other content.",
+			"icon" : "",
+			"example" : "television, movies, second screens, fan clubs, theatre, ringtones, voice manipulation, ticketing services, art creation",			
+		}
+]
