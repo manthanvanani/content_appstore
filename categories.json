@@ -1,4 +1,7 @@
-
+{
+	"success" : true,
+	"message" : "category fetch successfully",
+	"data" : 
 	[
 		{
 			"title":"Books",
@@ -31,3 +34,5 @@
 			"example" : "television, movies, second screens, fan clubs, theatre, ringtones, voice manipulation, ticketing services, art creation",			
 		}
 ]
+
+}
